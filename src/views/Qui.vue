@@ -1,7 +1,7 @@
 <template>
   <div class="turtle-container">
-    <img src="src/assets/hinh-con-rua-cute.jpg">
-    <h2>Xin chào tớ là Qui Qui</h2>
+    <!-- <img src="src/assets/hinh-con-rua-cute.jpg">
+    <h2>Xin chào tớ là Qui Qui</h2> -->
   </div>
 </template>
 
